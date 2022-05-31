@@ -39,7 +39,6 @@ window.document.addEventListener('DOMContentLoaded', () => {
 	});
 
 	// Timer
-
 	const deadLine = '2022-09-10';
 
 	function getTimeRemaning(endtime) {
